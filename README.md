@@ -1,6 +1,6 @@
 <h3> 😎 &nbsp;Sobre mim </h3>
 
-- 🤓 &nbsp; Estudando por programação (por livre e espontânea força do odio).
+- 🤓 &nbsp; Estudando programação (por livre e espontânea força do odio).
 - 🎓 &nbsp; Cursando Informática no <a href="https://www.cefetmg.br/">CEFET-MG</a> Campus Contagem. 
 - 🕹️ &nbsp; Eu jogo alguns jogos, mas <a href="https://osu.ppy.sh/users/20800735">esse</a> é o meu favorito.
 
